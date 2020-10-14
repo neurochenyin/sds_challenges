@@ -20,8 +20,8 @@ Learn through continuous learning experiences with an on-going experience. Chall
 ```
 
 
-#-sds_challenges/challenge_2/
+### sds_challenges/challenge_2/
     SDS Challenge_cyin.ipynb
-	    process of data preprocessing, hyperparameter tuning, RandomForestRegressor and XGBRegressor model selection and prediction
+    	process of data preprocessing, hyperparameter tuning, RandomForestRegressor and XGBRegressor model selection and prediction
     challenge_2_preded_Chen.csv
-	    prediction result
+    	saved prediction result
