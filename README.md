@@ -18,3 +18,10 @@ Learn through continuous learning experiences with an on-going experience. Chall
         ├── pred_cars.csv (dataset to predict on)
         └── public_cars.csv (dataset to train and test)
 ```
+
+
+#-sds_challenges/challenge_2/
+    SDS Challenge_cyin.ipynb
+	    process of data preprocessing, hyperparameter tuning, RandomForestRegressor and XGBRegressor model selection and prediction
+    challenge_2_preded_Chen.csv
+	    prediction result
