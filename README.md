@@ -21,11 +21,11 @@ Learn through continuous learning experiences with an on-going experience. Chall
 
 
 ### sds_challenges/challenge_2/
-    SDS Challenge_cyin.ipynb
-    	process of data preprocessing, hyperparameter tuning, RandomForestRegressor and XGBRegressor model selection and prediction <br />
+_SDS Challenge_cyin.ipynb_: <br />
+process of data preprocessing, hyperparameter tuning, RandomForestRegressor and XGBRegressor model selection and prediction <br />
 
-    challenge_2_preded_Chen.csv
-    	saved prediction result
+_challenge_2_preded_Chen.csv_: <br />
+saved prediction result
 
 
 ##   Car Price Prediction - ⭐ - Deployment
