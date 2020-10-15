@@ -28,8 +28,14 @@ _challenge_2_preded_Chen.csv_: <br />
 saved prediction result
 
 
-##   Car Price Prediction - ⭐ - Deployment
+##   Monthly Super Data Science Challenges- ⭐ - Deployment
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
+
+• From SuperDataScience: <br />
+_https://sdsclub.com/challenges/_
+
+• Cyin's Master branch:<br />
+_https://github.com/neurochenyin/sds_challenges_
 
 • This repository consists of monthly ***data*** and **model** files for ___sds_challenges___.
 
