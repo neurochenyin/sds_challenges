@@ -7,27 +7,42 @@ A challenge from [sds](https://sdsclub.com/challenges/october-challenge/?utm_con
 
 <div class="span5 alert alert-info">
 <h3>Data Preprocessing</h3> <ol>
-•EDA
+•Load data, EDA: check missing values, features
 <br/>
-•Deal with numerical & categorical features 
+•Deal with categorical features: drop<b>model_name</b> which has many unique values (1070), include<b>manufacturer_name</b> with 55 unique values as it's correlated with <b>model_name</b>
 <br/>
-•Build Pipeline
+•Deal with numerical features 
+<br/>
+•Build Pipeline: Normalization for numerical features and OneHotEncoding for categorical features
+</div>
+
+
+<div class="span5 alert alert-info">
+<h3>Play with cross-validation to select best n_estimators</h3> <ol>
+•Use cross_val_score
+<br/>
 </div>
 
 
 <div class="span5 alert alert-info">
 <h3>Model selection</h3> <ol>
-•RandomForestRegressor
+•RandomForestRegressor: MSE: 3604622
 <br/>
-•XGBRegressor
+•RandomForestRegressor & Hyperparamter tuning: RandomizedSearchCV: MSE: 6102838
 <br/>
+•XGBRegressor:MSE: 2940997
+<br/>
+•XGBRegressor with default parameters :MSE: 2940997
+<br/>
+•XGBRegressor & Hyperparamter tuning: RandomizedSearchCV: MSE: 3132839
+<br/>  
 </div>
 
 <div class="span5 alert alert-info">
 <h3>Make prediction using chosen model & parameters</h3> <ol>
-•XGBRegreswith default parameters
+•XGBRegressor with default parameters
 <br/>
-•XGBRegressor
+•Save predicted output csv file
 <br/>
 </div>
 
